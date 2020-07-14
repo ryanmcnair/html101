@@ -34,9 +34,16 @@ li a:hover {
     border: 1px solid blue;
     width: 30%;
     float: left;
-    margin: 
+    margin: 0;
 }
 
 .card img {
     width: 100%
+}
+
+.people {
+    border: 1px dashed red;
+    width: 30%;
+    float: left;
+    margin: 10%;
 }
