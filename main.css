@@ -29,3 +29,14 @@ li a {
 li a:hover {
     background-color: black;
 }
+
+.card {
+    border: 1px solid blue;
+    width: 30%;
+    float: left;
+    margin: 
+}
+
+.card img {
+    width: 100%
+}
